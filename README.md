@@ -4,8 +4,7 @@
 - 🧪 **Weekly Lab Tasks**  
   Implementation of core OOP concepts through structured exercises.
 
-- 🚗 **Mini Projects**  
-  Projects like the *Transport Management System* showcasing practical applications of OOP.
+
 
 - 🧬 **Concept Demonstrations**  
   - Inheritance (single, multiple, multilevel)  
